@@ -5,9 +5,9 @@ function App_06() {
   return (
     <div>
       <h1>My Todos</h1>
-      <Todo_06 text='Learn React' />
-      <Todo_06 text='Learn SQK' />
-      <Todo_06 text='Learn Nextjs' />
+      <Todo_06 text='Learn internet' />
+      <Todo_06 text='Learn java' />
+      <Todo_06 text='Learn pythoon' />
     </div>
   );
 }
